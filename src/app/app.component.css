@@ -1,0 +1,15 @@
+#formulario{
+  max-width: 400px;
+  margin: auto;
+}
+
+#formulario > .btn{
+  margin-right: 15px;
+}
+
+#tabla{
+  width: 33%;
+  margin: auto;
+  margin-top: 50px;
+}
+
